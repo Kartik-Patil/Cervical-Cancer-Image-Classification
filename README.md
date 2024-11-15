@@ -1,8 +1,6 @@
 # Cervical Cancer Image Classification in Deep Learning
 
-# Link to the Web Application
 
-Check out a GitHub repo of [Cervical Cancer Predictor](https://github.com/Dhruv195/Cervical-Cancer-Predictor)
 
 # Overview
 
@@ -13,17 +11,6 @@ This repository hosts the Cervical Cancer Image Classification project, a compre
 The dataset undergoes rigorous preprocessing to ensure quality and consistency in model training:
 
 - Image Acquisition: Raw images are sourced from the Herlev dataset.
-
-- Normalization: Image intensities are normalized for consistent analysis.
-
-- Enhancement Techniques:
-
-  - CLAHE (Contrast Limited Adaptive Histogram Equalization): Enhances image contrast.
-  - Median Filter: Reduces noise and improves image clarity.
-  - NLM Filter (Non-Local Means Denoising): Further enhances image quality.
-
-- Image augmentation techniques are also applied to enrich the dataset and improve model robustness:
-  - NLM Augmentation: Incorporates NLM filtering for enhanced data diversity.
 
 # Model Training and Fine-Tuning
 
