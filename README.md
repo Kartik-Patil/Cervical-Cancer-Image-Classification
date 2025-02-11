@@ -27,7 +27,7 @@ Transfer learning helps in enhancing the predictive capability of the models by 
 
 # Ensemble Technique
 
-An ensemble technique is then applied to combine the strengths of individually fine-tuned models. This results in an ensemble model with an accuracy exceeding 97%. The ensemble method boosts the overall performance and robustness of the classification system.
+An ensemble technique is then applied to combine the strengths of individually fine-tuned models. This results in an ensemble model with an accuracy exceeding 99.71%. The ensemble method boosts the overall performance and robustness of the classification system.
 
 # Results
 
